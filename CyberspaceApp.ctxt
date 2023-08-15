@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=CyberspaceApp
+comment0.text=\n\ The\ CyberspaceApp\ class\ reads\ the\ input\ (a\ set\ of\ URLs,\ \n\ each\ provided\ as\ a\ String)\ to\ the\ program\ through\n\ command-line\ arguments\ or\ keyboard\ input.\n\n\ @author\ Maya\ Lu-Huda\ &\ Claire\ Cao\n\ @version\ 10/21/22\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
